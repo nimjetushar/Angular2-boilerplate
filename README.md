@@ -1,6 +1,7 @@
-# README #
+# Angular2 boilerplate #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+[![dependencies Status](https://david-dm.org/nimjetushar/angular2-boilerplate/status.svg)](https://david-dm.org/nimjetushar/angular2-boilerplate)
+[![devDependencies Status](https://david-dm.org/nimjetushar/angular2-boilerplate/dev-status.svg)](https://david-dm.org/nimjetushar/angular2-boilerplate?type=dev)
 
 ### What is this repository for? ###
 
